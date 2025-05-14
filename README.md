@@ -32,24 +32,16 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-## VanLuanIT24's GitHub Stats  
-| **Metric**               | **Count**            |
-|--------------------------|----------------------|
-| Total Stars Earned       | ![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/VanLuanIT24&query=stars&label=%E2%AD%90&color=yellow) |
-| Total Commits (2025)     | ![Commits](https://img.shields.io/badge/Commits-111-blue) *(Tự động thay số)* |
-| Total PRs                | ![PRs](https://img.shields.io/badge/PRs-2-green) |
-| Total Issues             | ![Issues](https://img.shields.io/badge/Issues-0-red) |
-| Contributed to (last year) | ![Contribs](https://img.shields.io/badge/Repos-1-purple) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanLuanIT24&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
----
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanLuanIT24&layout=compact&theme=dark)
 
-### 🔠 Most Used Languages  
-```text
-✅ Dart      29.97% ████████████░░░░░░░░  
-✅ C++       13.24% ██████░░░░░░░░░░░░░  
-✅ HTML      21.86% █████████░░░░░░░░░░  
-✅ CMake     10.39% ████░░░░░░░░░░░░░░░  
-✅ JavaScript 17.20% ███████░░░░░░░░░░░░  
-✅ CSS        7.33% ███░░░░░░░░░░░░░░░░   
+## Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VanLuanIT24&theme=dark)](https://git.io/streak-stats)
+
+## 🌐 Visitors
+![Visitor Count](https://profile-counter.glitch.me/VanLuanIT24/count.svg)
+
