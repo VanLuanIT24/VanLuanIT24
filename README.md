@@ -18,6 +18,20 @@
 - ⚡ **Fun fact:** I can type 80 words per minute while drinking coffee!  
 
 ---
+## 🎯 Goal & Interests
+- 📱 I love building cross-platform mobile apps with Flutter  
+- 🌍 Passionate about web APIs, RESTful design, and scalable backends  
+- 🧠 Currently exploring AI integrations and DevOps tools  
+- ✈️ Dreaming of becoming a full-stack mobile/web developer working remotely worldwide
+
+---
+## 🧰 Tools I Use Daily
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+
+---
 
 ## 🛠 Tech Stack
 ### 📱 Mobile Development
@@ -44,3 +58,5 @@
 ## 🌐 Visitors
 ![Visitor Count](https://profile-counter.glitch.me/VanLuanIT24/count.svg)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=VanLuanIT24&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
