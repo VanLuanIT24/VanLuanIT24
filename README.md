@@ -52,7 +52,7 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="[https://media.giphy.com/media/9xzWaiZvm2zDy/giphy.gif](https://media.tenor.com/_nfNPvSXeI4AAAAM/satoru-gojo-satoru-watching.gif)" width="200"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZ5dDdmMnVmMXo1NjBoajk3Zjd1bGh6Y3gyZmtjazcydWtyMWJ4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fB2IRTXd07IkcStfwU/giphy.gif" width="200"/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanLuanIT24&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 <img src="https://i.pinimg.com/originals/be/c2/fc/bec2fc14c4252f0eb9308437ea9b0135.gif" width="200"/>
 
