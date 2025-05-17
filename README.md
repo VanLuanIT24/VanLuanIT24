@@ -58,7 +58,8 @@
 </p>
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanLuanIT24&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-9bd2-pml46edis-vanluanit24s-projects.vercel.app/api/top-langs/?username=VanLuanIT24&layout=compact&theme=dark)
+
 
 ## Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VanLuanIT24&theme=dark)](https://git.io/streak-stats)
